@@ -1,0 +1,36 @@
+{
+  "name": "createmod",
+  "version": "1.0.5",
+  "description": "create one module directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npcr": "./bin/crmod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravellingStory/createmod.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mean",
+    "plugin",
+    "angularjs",
+    "dir",
+    "create",
+    "module"
+  ],
+  "author": "daxiongdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravellingStory/createmod/issues"
+  },
+  "homepage": "https://github.com/TravellingStory/createmod#readme",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "npm": "^6.12.1"
+  }
+}
