@@ -1,6 +1,6 @@
 {
   "name": "createmod",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "create one module directory",
   "main": "index.js",
   "scripts": {
